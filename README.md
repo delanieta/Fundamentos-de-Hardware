@@ -7,7 +7,14 @@
 
 <img src="https://img.shields.io/badge/ASIR-HARDWARE-CE1141?style=for-the-badge&labelColor=202020" />
 
+<br><br>
+
+<a href="https://delanieta.github.io/Fundamentos-de-Hardware/">
+  <img src="https://img.shields.io/badge/ACCEDER%20A-HARDWARE%20LAB-CE1141?style=for-the-badge&logo=github&logoColor=white&labelColor=202020" alt="Hardware Lab" />
+</a>
+
 </div>
+
 
 ---
 
